@@ -1,3 +1,5 @@
+# Essa automação só ira funcionar em sua máquina se você alterar as restições de tamanho e posição de tela
+
 import pyautogui
 import time
 
