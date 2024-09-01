@@ -1,3 +1,5 @@
+# Estudo das principais funções do pyautogui
+
 import pyautogui
 import time
 
